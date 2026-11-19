@@ -1,21 +1,17 @@
-💫 Hi 👋, I'm Brahim
-A passionate Ai Engineer || DevOps Engineer || Software engineer 
+# 💫 Hi 👋, I'm Brahim
+**A passionate Ai Engineer || DevOps Engineer || Software engineer **
 
 Email Me 👉 ✉️ braahimow@gmail.com For Collaboration/cool Project . 😊😊
 
-🔭 I’m not currently working
+- 🔭 ** I’m not currently working
+- 🌱 **🌱 I’m currently learning: reactNative
+- 👯 **I’m looking to collaborate on: maalmo 
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about: Collaboration, Tech Support
+- 📫 **How to reach me: braahimow@gmail.com
+- 😄 **Pronouns:** Eng Brahim
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-🌱 I’m currently learning: reactNative
-
-👯 I’m looking to collaborate on: maalmo 
-
-💬 Ask me about: Collaboration, Tech Support
-
-📫 How to reach me: braahimow@gmail.com
-
-😄 Pronouns: braahimow
-
-⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/iprowpoi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@braahimow1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Braahimow) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Braahimow) 
@@ -26,6 +22,13 @@ Email Me 👉 ✉️ braahimow@gmail.com For Collaboration/cool Project . 😊�
 ![](https://github-readme-stats.shion.dev/api?username=braahimow&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=braahimow&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=braahimow&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=braahimow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
