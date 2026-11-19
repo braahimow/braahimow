@@ -3,7 +3,7 @@ A passionate Ai Engineer || DevOps Engineer || Software engineer
 
 Email Me 👉 ✉️ braahimow@gmail.com For Collaboration/cool Project . 😊😊
 
-🔭 I’m not currently working .
+🔭 I’m not currently working
 🌱 I’m currently learning: reactNative
 👯 I’m looking to collaborate on: maalmo 
 💬 Ask me about: Collaboration, Tech Support
