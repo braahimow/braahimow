@@ -4,12 +4,19 @@ A passionate Ai Engineer || DevOps Engineer || Software engineer
 Email Me 👉 ✉️ braahimow@gmail.com For Collaboration/cool Project . 😊😊
 
 🔭 I’m not currently working
+
 🌱 I’m currently learning: reactNative
+
 👯 I’m looking to collaborate on: maalmo 
+
 💬 Ask me about: Collaboration, Tech Support
+
 📫 How to reach me: braahimow@gmail.com
+
 😄 Pronouns: braahimow
+
 ⚡ Fun fact: I Love Tech and Tech Love Me
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/iprowpoi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@braahimow1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Braahimow) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Braahimow) 
 
