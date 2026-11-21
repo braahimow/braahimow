@@ -10,7 +10,7 @@ Email Me 👉 ✉️ braahimow@gmail.com For Collaboration/cool Project . 😊�
 - 💬 **Ask me about: Collaboration, Tech Support
 - 📫 **How to reach me: braahimow@gmail.com
 - 😄 **Pronouns:** Eng Brahim
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I interested Ai Engineer 
 
 
 ## 🌐 Socials:
