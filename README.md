@@ -6,7 +6,7 @@ Email Me 👉 ✉️ braahimow@gmail.com For Collaboration/cool Project . 😊�
 - 🔭 ** I’m not currently working
 - 🌱 **🌱 I’m currently learning: reactNative
 - 👯 **I’m looking to collaborate on: maalmo 
-- 🤔 **I’m looking for help with:** Your project here
+- 🤔 **looking customers to improve your:**  business | contact me for sure
 - 💬 **Ask me about: Collaboration, Tech Support
 - 📫 **How to reach me: braahimow@gmail.com
 - 😄 **Pronouns:** Eng Brahim
