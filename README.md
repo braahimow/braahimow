@@ -1,4 +1,3 @@
-![logo](https://pbs.twimg.com/profile_banners/2119016894413799424/1794049241/600x200)
 # 💫 Hi 👋, I'm Brahim
 **A passionate Ai Engineer || DevOps Engineer || Software engineer **
 
